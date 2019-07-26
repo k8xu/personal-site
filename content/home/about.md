@@ -11,27 +11,27 @@ weight = 5
 [interests]
   interests = [
     "Machine Learning",
-    "Augmented Reality",
-    "Cognitive Science"
+    "Financial Technology",
+    "Social Good"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Candidate for Bachelor of Science in Computer Science"
+  course = "S.B. in Computer Science, Economics, and Data Science"
   institution = "Massachusetts Institute of Technology"
   year = 2022
 
 [[education.courses]]
-  course = "All-School Scholar"
-  institution = "Conestoga High School"
-  year = 2018
+  course = "S.B. in Mathematics"
+  institution = "Massachusetts Institute of Technology"
+  year = 2022
  
 +++
 
 # Biography
 
-Kate Xu is an undergraduate at MIT pursuing a joint major in Computer Science, Economics, and Data Science. She is curious about taking an interdisciplinary approach to solving big problems in healthcare, education, and finance.
+Kate Xu is a sophomore at MIT pursuing a double major in Computer Science, Economics, and Data Science (Course 6-14) and in Mathematics (Course 18). She is passionate about using the power of technology for social good, and she loves taking opportunities to learn and apply her skills to real-world problems. Kate has experience in machine learning, software engineering, and research.
 
-Currently, she is working as a software developer at Brain Power, a neurotech startup that transforms Google Glass into an assistive device for people with autism. She also spends her time researching the history of computation in the 1950s at the MIT Digital Humanities Lab.
+Kate is dedicated to inspiring women in STEM and helping people of all backgrounds receive a quality education. She has mentored classmates as a Python course assistant at MIT and taught algorithms and web development to middle and high school girls in Mexico. Kate is working towards a concentration in Spanish because she is curious about Latin America and hopes to become fluent in the language. This summer, she is using data science to predict financial credit risk in Colombia.
 
-On campus, she is an active member of the Varsity Fencing Team and Asian Dance Team. She also enjoys learning new things, helping others, and coding side projects. Feel free to reach out to me!
+Aside from her work, Kate is a saber fencer on the MIT Varsity Fencing Team, a member of the Asian Dance Team, an Associate Advisor for incoming first-year students, and a sister of Pi Beta Phi. She enjoys listening to music and traveling the world.
