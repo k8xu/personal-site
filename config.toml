@@ -13,7 +13,7 @@ title = "Kate Xu"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2019"
 
 theme = "academic"
 enableEmoji = true
@@ -53,7 +53,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Kate Xu"
-  role = "MIT Computer Science Student"
+  role = "Comp Sci + Math Student"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -107,7 +107,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "ocean"
+  color_theme = "1950s"
   # Enable users to switch between day and night mode?
   day_night = true
 
@@ -265,16 +265,21 @@ enableGitInfo = false
     icon_pack = "fas"
     link = "mailto:katexu@mit.edu"  # For a direct email link, use "mailto:test@example.org".
 
+  # [[params.social]]
+  #   icon = "twitter"
+  #   icon_pack = "fab"
+  #   link = ""
+
+  # [[params.social]]
+  #   icon = "google-scholar"
+  #   icon_pack = "ai"
+  #   link = ""
+
   [[params.social]]
-    icon = "twitter"
+    icon = "linkedin"
     icon_pack = "fab"
-    link = ""
-
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = ""
-
+    link = "https://www.linkedin.com/in/kateyxu/"
+  
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
@@ -282,10 +287,10 @@ enableGitInfo = false
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  # [[params.social]]
-  #   icon = "cv"
-  #   icon_pack = "ai"
-  #   link = "files/cv.pdf"
+  [[params.social]]
+    icon = "file"
+    icon_pack = "fab"
+    link = "files/cv.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -301,36 +306,41 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Experience"
+  url = "#experience"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+# [[menu.main]]
+#   name = "Publications"
+#   url = "#publications_selected"
+#   weight = 2
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+# [[menu.main]]
+#   name = "Posts"
+#   url = "#posts"
+#   weight = 3
 
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 5
+# [[menu.main]]
+#   name = "Projects"
+#   url = "#projects"
+#   weight = 4
 
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 6
+# [[menu.main]]
+#   name = "Tutorials"
+#   url = "/tutorial/"
+#   weight = 5
+
+# [[menu.main]]
+#   name = "Contact"
+#   url = "#contact"
+#   weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[menu.main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 7
+[[menu.main]]
+   name = "Resume"
+   url = "files/resume.pdf"
+   weight = 7
 
 # Search.
 [params.search]

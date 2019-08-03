@@ -10,21 +10,23 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Machine Learning & Algorithms",
-    "Financial Technology",
-    "Social Good"
+    "Machine Learning",
+    "Algorithms",
+    "Financial Technology"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "S.B. in Computer Science, Economics, and Data Science & Mathematics"
+  course = "BSc in Computer Science, Economics, and Data Science & Mathematics"
   institution = "Massachusetts Institute of Technology"
   year = 2022
 
 +++
 
-# Biography
+# Hey, I'm Kate!
 
-Kate Xu is a sophomore at MIT pursuing a double major in Computer Science, Economics, and Data Science (Course 6-14) and in Mathematics (Course 18). She is passionate about using the power of technology for social good, and she loves taking opportunities to learn and apply her skills to real-world problems. Kate has experience in machine learning, software engineering, and research. This summer, she is using data science to predict financial credit risk in Colombia.
+I am a sophomore at MIT pursuing a double major in Computer Science, Economics, and Data Science (Course 6-14) and in Mathematics (Course 18). I am passionate about using technology for social good, and I enjoy taking opportunities to learn and apply my skills to real-world problems.
 
-Kate is dedicated to inspiring women in STEM and helping people of all backgrounds receive a quality education. She has mentored classmates as a Python course assistant at MIT and taught algorithms and web development to middle and high school girls in Mexico. Aside from her work, Kate is a saber fencer on the MIT Varsity Fencing Team, a member of the Asian Dance Team, an Associate Advisor for incoming first-year students, and a sister of Pi Beta Phi.
+I have experience in machine learning, software engineering, and research. I am dedicated to inspiring women in STEM and helping people receive a quality education. I have mentored classmates as a Python course assistant at MIT and taught algorithms and web development to high school girls in Mexico.
+
+Aside from work, I am a saber fencer on the MIT Varsity Fencing Team, an Associate Advisor for incoming first-year students, and a sister of Pi Beta Phi.
