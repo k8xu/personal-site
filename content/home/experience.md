@@ -26,7 +26,7 @@ date_format = "January 2006"
   date_start = "2019-06-18"
   date_end = ""
   description = """
-  Using data science to analyze financial credit risk on imbalanced data. Check out my project on GitHub!
+  Predicting financial credit risk on highly imbalanced data using machine learning. Check out my project: https://github.com/k8xu/credit-risk-modeling-with-LDPs
   """
 
 [[experience]]
@@ -37,7 +37,7 @@ date_format = "January 2006"
   date_start = "2019-02-05"
   date_end = "2019-05-16"
   description = """
-  Lab Assistant for 6.0001/6.0002 Introduction to Computer Science and Programming in Python. Clarified lecture concepts and problem sets during office hours for a 350+ student class.
+  Lab Assistant for 6.0001/6.0002 Intro to Comp Sci and Programming in Python. Clarified lecture concepts & problem sets during office hours for 350+ student class.
   """
 
 [[experience]]
@@ -48,7 +48,7 @@ date_format = "January 2006"
   date_start = "2019-01-07"
   date_end = "2019-02-01"
   description = """
-  Implemented Google Cloud Vision API and optical character recognition software to enable text detection of inventory serial numbers for company to efficiently register Google Glass products. Expanded web app functionality with AngularJS and Node.js for modifying and accessing data.
+  Implemented Google Cloud Vision API and optical character recognition for text detection of inventory serial numbers to efficiently register Google Glass. Expanded web app functionality with AngularJS and Node.js for modifying and accessing data.
   """
 
 [[experience]]
@@ -59,7 +59,7 @@ date_format = "January 2006"
   date_start = "2018-09-01"
   date_end = "2018-12-31"
   description = """
-  Conducted research in the MIT Digital Humanities Lab as a Back-End Web Developer. Collaborated with 23 student researchers to analyze gender in novels written between 1770-1922. Designed and deployed website to web server using Python, Flask, and PowerShell.
+  Conducted research in the Digital Humanities Lab as a Back-End Web Developer. Collaborated with 23 researchers to [analyze gender descriptions in English novels](http://gendernovels.digitalhumanitiesmit.org/). Designed and deployed website to web server using Python, Flask, and PowerShell.
   """
   
 +++
