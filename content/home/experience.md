@@ -41,7 +41,7 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "Software Engineer Intern"
+  title = "Software Engineering Intern"
   company = "Brain Power"
   company_url = ""
   location = "Cambridge, MA"
