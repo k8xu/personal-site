@@ -25,7 +25,9 @@ date_format = "January 2006"
   location = "Colombia"
   date_start = "2019-06-18"
   date_end = ""
-  description = """Using data science to analyze financial credit risk on imbalanced data."""
+  description = """
+  Using data science to analyze financial credit risk on imbalanced data. Check out my project on GitHub!
+  """
 
 [[experience]]
   title = "Course Assistant"
@@ -59,16 +61,5 @@ date_format = "January 2006"
   description = """
   Conducted research in the MIT Digital Humanities Lab as a Back-End Web Developer. Collaborated with 23 student researchers to analyze gender in novels written between 1770-1922. Designed and deployed website to web server using Python, Flask, and PowerShell.
   """
-
-[[experience]]
-  title = "Software Developer Intern"
-  company = "Evolve IP"
-  company_url = ""
-  location = "Pennsylvania"
-  date_start = "2019-05-01"
-  date_end = "2019-05-31"
-  description = """
-  Coded front-end of task management web application using HTML, CSS, and JavaScript. Gained experience with cloud computing technologies and full-stack web development.
-  """
-
+  
 +++
