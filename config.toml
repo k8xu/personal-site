@@ -28,6 +28,9 @@ disqusShortname = ""
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
 
+# Tells Hugo where to create HTML files from Hugo site content
+publishDir = "k8xu.github.io"
+
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
