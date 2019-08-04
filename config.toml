@@ -310,6 +310,11 @@ enableGitInfo = false
   url = "#experience"
   weight = 2
 
+[[menu.main]]
+  name = "Classes"
+  url = "#teaching"
+  weight = 3
+
 # [[menu.main]]
 #   name = "Publications"
 #   url = "#publications_selected"
