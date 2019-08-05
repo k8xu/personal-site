@@ -3,11 +3,11 @@ This repository contains the [Hugo academic theme](https://themes.gohugo.io/acad
 
 
 ### How to edit `personal-site` repo
-A mistake that I had made was editing the `k8xu.github.io` repo instead of this one, which I realized did not make any changes on the actual website. If you need to add or change information on your personal website, make changes to this repository instead.
+A mistake that I had made was editing the `k8xu.github.io` repo instead of this one, which did not make any changes on the actual website. If you need to change information on your personal website, make changes to this repository instead.
 
 **1. Open GitHub Desktop and Visual Studio Code to edit content**
 
-On GitHub Desktop, check that you are on `personal-site` and refresh the repository to fetch any new commits. Make any changes using Visual Studio Code in Markdown, and most of the edits should be in the `contents` folder or the `config` file.
+On GitHub Desktop, check that you are on `personal-site` and refresh the repository to fetch new commits. Make changes using Visual Studio Code in Markdown, and most of the edits should be in the `contents` folder or the `config` file.
 
 **2. Open Git Bash to view changes**
 
@@ -25,8 +25,10 @@ I had spent many hours figuring out how to push my changes to my actual website,
 
 Use `cd` to navigate to the `personal-site` repo. You will find that there is a folder called `k8xu.github.io` inside this repo, which is a submodule pointing to the actual website.
 
-**Resources**
 
+### Resources
 Here are some websites that I used to help push my changes to `k8xu.github.io`:
-1. [Website 1](placeholder)
-2. [Website 2](placeholder)
+
+[Website 1](placeholder)
+
+[Website 2](placeholder)
