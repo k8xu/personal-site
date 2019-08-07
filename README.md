@@ -35,11 +35,7 @@ Type `hugo` to build website.
 
 If you updated the `k8xu.github.io` repository at any time, you will need to first pull and push new commits. Type `git pull` and `git push origin master`. You will need your passphrase for SSH key during this step. Commit any changes in GitHub Desktop before proceeding.
 
-Type `git remote -v` and `git add .` and `git commit -m "Your message here"` and `git push origin master`.
-
-**4. Wait a few minutes**
-
-It might take a few minutes for your updated personal website to show in browser, but everything should look good now! :)
+Type `git remote -v` and `git add .` and `git commit -m "Your message here"` and `git push origin master`. Commit changes on GitHub Desktop, wait a few seconds for website to update, and everything should look good! :)
 
 
 ### Resources
