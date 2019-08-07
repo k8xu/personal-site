@@ -25,8 +25,8 @@ weight = 5
 
 # Hey, I'm Kate!
 
-I am a sophomore at MIT pursuing a double major in Computer Science, Economics, and Data Science ([Course 6-14](https://www.eecs.mit.edu/academics-admissions/undergraduate-programs/6-14-computer-science-economics-and-data-science)) and Mathematics ([Course 18](https://math.mit.edu/academics/undergrad/major/index.php)). I am passionate about using technology for social good, and I enjoy learning and applying my skills to real-world problems in economics and cognitive science.
+I am a sophomore at MIT pursuing a double major in Computer Science, Economics, and Data Science ([Course 6-14](https://www.eecs.mit.edu/academics-admissions/undergraduate-programs/6-14-computer-science-economics-and-data-science)) and Mathematics ([Course 18](https://math.mit.edu/academics/undergrad/major/index.php)). I am passionate about using technology for social good, and I enjoy learning and applying my skills to real-world problems in finance and cognitive science.
 
-I have experience in machine learning, software engineering, and research. Previously, I have mentored classmates as a Python course assistant at MIT and developed web apps for Google Glass at Brain Power. This summer, I am using data science methods to predict credit default risk at Bancolombia.
+I have experience in machine learning, software engineering, and research. Previously, I mentored classmates as a Python course assistant at MIT, and I developed web apps at a neurotechnology startup. This summer, I am using data science to predict and model credit default risk at Bancolombia.
 
 Aside from work, I am a student athlete on the MIT Varsity Fencing Team, an Associate Advisor for first-year undergraduates, and a sister of Pi Beta Phi.
