@@ -21,12 +21,28 @@ Push your changes with a descriptive commit statement, and refresh the repositor
 ### How to deploy `personal-site` changes to GitHub Pages
 I spent hours figuring out how to push my changes to the actual website, so I made this guide to make the process more straightforward. I assume that you have already edited the personal-site repo following the above instructions.
 
-**1. Open Git Bash**
+**1. Use Git Bash and `cd` to navigate to `personal-site` repo**
 
-Use `cd` to navigate to the `personal-site` repo, which is where most of the deployment process will take place. You should find a folder called `k8xu.github.io` inside this repo, which is a submodule pointing to the actual website.
+The `personal-site` repo is where most of the deployment process will take place, and we will start in this repo. You should find a folder called `k8xu.github.io` inside this repo, which is a submodule pointing to the actual website.
+
+**2. Push changes to `personal-site`**
+
+Type `git add .` and `git commit -m "Your message here"` and `git push -u origin master`.
+
+Type `hugo` to build website.
+
+**3. Navigate to `personal-site/k8xu.github.io` repo**
+
+If you updated the `k8xu.github.io` repository at any time, you will need to first pull and push new commits. Type `git pull` and `git push origin master`. You will need your passphrase for SSH key during this step. Commit any changes in GitHub Desktop before proceeding.
+
+Type `git remote -v` and `git add .` and `git commit -m "Your message here"` and `git push origin master`.
+
+**4. Wait a few minutes**
+
+It might take a few minutes for your updated personal website to show in browser, but everything should look good now! :)
 
 
 ### Resources
-[I followed the **Deploying** section of this website with some modifications.](https://inside.getambassador.com/creating-and-deploying-your-first-hugo-site-to-github-pages-1e1f496cf88d)
+[I mainly used this website and followed the **Deploying** section with some modifications.](https://inside.getambassador.com/creating-and-deploying-your-first-hugo-site-to-github-pages-1e1f496cf88d)
 
 [I followed the **Setup When You've Already Committed and Pushed** section of this website but did not use a `public` folder.](https://github.com/whipperstacker/blog/blob/master/content/post/deploying-a-hugo-site-to-github-pages.md)
