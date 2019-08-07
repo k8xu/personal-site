@@ -19,16 +19,14 @@ Push your changes with a descriptive commit statement, and refresh the repositor
 
 
 ### How to deploy `personal-site` changes to GitHub Pages
-I had spent many hours figuring out how to push my changes to my actual website, so I made this step-by-step guide to make the process more straightforward. I assume that you have already edited the personal-site repo following the above instructions.
+I spent hours figuring out how to push my changes to the actual website, so I made this guide to make the process more straightforward. I assume that you have already edited the personal-site repo following the above instructions.
 
 **1. Open Git Bash**
 
-Use `cd` to navigate to the `personal-site` repo. You will find that there is a folder called `k8xu.github.io` inside this repo, which is a submodule pointing to the actual website.
+Use `cd` to navigate to the `personal-site` repo, which is where most of the deployment process will take place. You should find a folder called `k8xu.github.io` inside this repo, which is a submodule pointing to the actual website.
 
 
 ### Resources
-Here are some websites that I used to help push my changes to `k8xu.github.io`:
+[I followed the **Deploying** section of this website with some modifications.](https://inside.getambassador.com/creating-and-deploying-your-first-hugo-site-to-github-pages-1e1f496cf88d)
 
-[Website 1](placeholder)
-
-[Website 2](placeholder)
+[I followed the **Setup When You've Already Committed and Pushed** section of this website but did not use a `public` folder.](https://github.com/whipperstacker/blog/blob/master/content/post/deploying-a-hugo-site-to-github-pages.md)
