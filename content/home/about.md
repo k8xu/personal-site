@@ -17,7 +17,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "BSc in Computer Science, Economics, and Data Science & Mathematics"
+  course = "B.S. in Computer Science, Economics, and Data Science & Mathematics"
   institution = "Massachusetts Institute of Technology"
   year = 2022
 

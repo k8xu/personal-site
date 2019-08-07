@@ -17,14 +17,14 @@ weight = 60
 
 ### Fall 2019
 
+* Computational Cognitive Science (6.804)
 * Introduction to Machine Learning (6.036)
-* Probability and Random Variables ([18.600](http://math.mit.edu/~sheffield/spring2019math600.html))
-* Fundamentals of Programming ([6.009](https://6009.cat-soop.org/fall19))
-* Introduction to Latin American Studies (21G.084)
+* Probability and Random Variables (18.600)
+* Fundamentals of Programming (6.009)
 
 ### First Year
 
-* Introduction to Algorithms ([6.006](https://learning-modules.mit.edu/class/index.html?uuid=/course/6/sp19/6.006))
+* Introduction to Algorithms (6.006)
 * Discrete Math for Computer Science (6.042)
 * Multivariable Calculus (18.022)
 * Principles of Microeconomics (14.01)
