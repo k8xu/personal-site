@@ -7,7 +7,7 @@ A mistake that I had made was editing the `k8xu.github.io` repo instead of this 
 
 **1. Open GitHub Desktop and Visual Studio Code to edit content**
 
-On GitHub Desktop, check that you are on `personal-site` and refresh the repository to fetch new commits. Make changes using Visual Studio Code in Markdown, and most of the edits should be in the `contents` folder or the `config` file.
+On GitHub Desktop, check that you are on `personal-site` and refresh the repository to fetch new commits. Make changes in Markdown using Visual Studio Code, and most of your edits will be in the `contents/home` folder or the `config.toml` file.
 
 **2. Open Git Bash to view changes**
 
