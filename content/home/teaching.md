@@ -7,7 +7,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Classes"
+title = "Coursework"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -15,14 +15,17 @@ weight = 60
 
 +++
 
-### Fall 2019
+### 2019-2020
 
-* Computational Cognitive Science (6.804)
+* Design and Analysis of Algorithms (6.046)
 * Introduction to Machine Learning (6.036)
+* Fundamentals of Statistics (18.650)
 * Probability and Random Variables (18.600)
 * Fundamentals of Programming (6.009)
+* Matrix Methods in Data Analysis, Signal Processing, and Machine Learning (18.065)
+* Computational Thinking (6.S083)
 
-### First Year
+### 2018-2019
 
 * Introduction to Algorithms (6.006)
 * Discrete Math for Computer Science (6.042)
@@ -30,12 +33,3 @@ weight = 60
 * Principles of Microeconomics (14.01)
 * Computer Science and Programming in Python (6.0001)
 * Electricity and Magnetism (8.02)
-
-### Before MIT
-
-* Linear Algebra
-* AP Computer Science
-* AP Statistics
-* AP Calculus BC
-* AP Economics
-* AP Spanish
