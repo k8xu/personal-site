@@ -10,21 +10,23 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Software Engineering",
     "Machine Learning",
-    "Data Science"
+    "Algorithms",
+    "Financial Technology"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "B.S. in Computer Science and Engineering"
+  course = "B.S. in Computer Science, Economics, and Data Science & Mathematics"
   institution = "Massachusetts Institute of Technology"
   year = 2022
 
 +++
 
-# Biography
+# Hey, I'm Kate!
 
-I am a Computer Science and Engineering junior at MIT with minors in Mathematics, Statistics and Data Science. I am passionate about developing technology to create a positive impact.
+I am a sophomore at MIT pursuing a double major in Computer Science, Economics, and Data Science ([Course 6-14](https://www.eecs.mit.edu/academics-admissions/undergraduate-programs/6-14-computer-science-economics-and-data-science)) and Mathematics ([Course 18](https://math.mit.edu/academics/undergrad/major/index.php)). I am passionate about using technology for social good, and I enjoy learning and applying my skills to real-world problems in finance and cognitive science.
 
-Currently, I am an Undergraduate Researcher at MIT CSAIL working on a project that applies data science to cybersecurity. Previously, I was a Data Science Intern at Bancolombia where I used machine learning to predict and model credit default risk.
+I have experience in machine learning, software engineering, and research. Previously, I mentored classmates as a Python course assistant at MIT, and I developed web apps at a neurotechnology startup. This summer, I am using data science to predict and model credit default risk at Bancolombia.
+
+Aside from work, I am a student athlete on the MIT Varsity Fencing Team, an Associate Advisor for first-year undergraduates, and a sister of Pi Beta Phi.
