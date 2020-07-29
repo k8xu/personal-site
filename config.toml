@@ -9,7 +9,7 @@
 baseurl = "https://k8xu.github.io/"
 
 # Title of your site
-title = "KATE XU"
+title = "Kate Xu"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -56,7 +56,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Kate Xu"
-  role = "Computer Science Student, MIT Class of 2022"
+  role = "Comp Sci + Math Student"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -110,7 +110,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "default"
+  color_theme = "1950s"
   # Enable users to switch between day and night mode?
   day_night = true
 
@@ -290,10 +290,10 @@ enableGitInfo = false
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  # [[params.social]]
-  #   icon = "file"
-  #   icon_pack = "fas"
-  #   link = "files/Kate_Xu_Resume_2019_08.pdf"
+  [[params.social]]
+    icon = "file"
+    icon_pack = "fas"
+    link = "files/Kate_Xu_Resume_2019_08.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -314,7 +314,7 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Coursework"
+  name = "Classes"
   url = "#teaching"
   weight = 3
 
@@ -345,10 +345,10 @@ enableGitInfo = false
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[menu.main]]
-#    name = "Resume"
-#    url = "files/Kate_Xu_Resume_2019_08.pdf"
-#    weight = 7
+[[menu.main]]
+   name = "Resume"
+   url = "files/Kate_Xu_Resume_2019_08.pdf"
+   weight = 7
 
 # Search.
 [params.search]
